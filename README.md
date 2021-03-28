@@ -1,2 +1,2 @@
-# TinCheck
+# TinChick
 For joke
